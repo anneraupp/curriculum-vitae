@@ -4,7 +4,7 @@ body{
     font-family: 'Roboto', sans-serif;
     background-color: #fff;
     color: #000;
-    font-size: 14px;
+    font-size: 12px;
 }
 
 .site{
@@ -158,17 +158,17 @@ span .titulo{
 
 /* TEXTOS */
 .sidebar-texto{
-    font-size: 14px;
+    font-size: 12px;
 }
 
 .sidebar-titulo{
-    font-size: 20px;
+    font-size: 18px;
     text-transform:uppercase;
     font-weight: bold;
 }
 
 .sidebar-subtitulo{
-    font-size: 16px;
+    font-size: 14px;
     text-transform:uppercase;
     font-weight: bolder;
     margin-right: 8px;
@@ -262,7 +262,7 @@ ul{
 .item-idioma{
     display: flex;
     flex-direction: row;
-    font-size: 14px;
+    font-size: 12px;
     padding-top: 10px;
 }
 
