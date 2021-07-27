@@ -8,4 +8,4 @@ Adicionei alguns efeitos de hover e collapse.
 
 Ainda farei adaptações para uma versão mobile, porém no momento o recomendável é abrir a página em um computador.
 
-Link da página:
+Link da página: https://anneraupp.github.io/curriculum-vitae/
