@@ -393,7 +393,7 @@ ul{
 }
 
 .basico{
-    width: 18px;
+    width:fit-content;
     height: 18px;
     background-image: url("https://anneraupp.github.io/curriculum-vitae/svg/basico.svg"); 
     background-size: cover;
