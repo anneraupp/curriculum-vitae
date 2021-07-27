@@ -38,7 +38,7 @@ body{
     .foto-perfil{
         width: 200px;
         height: 200px;
-        background-image: url("https://raw.githubusercontent.com/anneraupp/curriculum-vitae/master/img/fotos/profile-foto.png"); 
+        background-image: url("https://anneraupp.github.io/curriculum-vitae/img/fotos/profile-foto.png"); 
         background-size: cover;
         margin: 25px}
 
