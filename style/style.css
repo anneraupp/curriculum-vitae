@@ -165,6 +165,7 @@ span .titulo{
     font-size: 18px;
     text-transform:uppercase;
     font-weight: bold;
+    justify-content: left;
 }
 
 .sidebar-subtitulo{
