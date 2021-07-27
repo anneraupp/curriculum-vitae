@@ -43,32 +43,32 @@ body{
         margin: 25px}
 
 .sobre{
-    justify-self: center;
+    justify-self: left;
     padding: 25px 25px 25px 25px;
 }
 
 .contato{
-    justify-self: center;
+    justify-self: left;
     padding: 25px 25px 25px 25px;
 }
 
 .idiomas {
-    justify-self: center;
+    justify-self: left;
     padding: 25px 25px 25px 25px;
 }
 
 .soft-skills {
-    justify-self: center;
+    justify-self: left;
     padding: 25px 25px 25px 25px;
 }
   
 .redes {
-    justify-self: center;
+    justify-self: left;
     padding: 25px 25px 25px 25px;
 }
     
 .qrcode { 
-    justify-self: center;
+    justify-self: left;
     padding: 25px 25px 25px 25px;
 }
 
