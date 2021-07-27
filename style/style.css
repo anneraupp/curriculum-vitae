@@ -401,3 +401,24 @@ ul{
     margin: auto;
     
 }
+
+.intermediario{
+    display: inline-block;
+    width:18px;
+    height: 18px;
+    background-image: url("https://anneraupp.github.io/curriculum-vitae/svg/intermediario.svg"); 
+    background-size:cover;
+    margin: auto;
+    
+}
+
+.avancado{
+    display: inline-block;
+    width:18px;
+    height: 18px;
+    background-image: url("https://anneraupp.github.io/curriculum-vitae/svg/avancado.svg"); 
+    background-size:cover;
+    margin: auto;
+    
+}
+
