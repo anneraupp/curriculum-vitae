@@ -396,3 +396,18 @@ mark {
 .custom-tooltip.left .tooltip-arrow {
 	border-top-color:transparent;
 }
+
+.basico{
+    background-image: url("https://anneraupp.github.io/curriculum-vitae/svg/basico.svg");
+    background-size: 18px;
+}
+
+.intermediario{
+    background-image: url("https://anneraupp.github.io/curriculum-vitae/svg/intermediario.svg");
+    background-size: 18px;
+}
+
+.avancado{
+    background-image: url("https://anneraupp.github.io/curriculum-vitae/svg/avancado.svg");
+    background-size: 18px;
+}
