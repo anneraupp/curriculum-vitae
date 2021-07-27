@@ -397,7 +397,7 @@ ul{
     width:18px;
     height: 18px;
     background-image: url("https://anneraupp.github.io/curriculum-vitae/svg/basico.svg"); 
-    background-size:contain;
+    background-size:cover;
     margin: auto;
     
 }
