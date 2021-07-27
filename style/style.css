@@ -44,32 +44,32 @@ body{
 
 .sobre{
     justify-self: left;
-    padding: 25px 25px 25px 25px;
+    padding: 25px 25px 12px 25px;
 }
 
 .contato{
     justify-self: left;
-    padding: 25px 25px 25px 25px;
+    padding: 12px 25px 12px 25px;
 }
 
 .idiomas {
     justify-self: left;
-    padding: 25px 25px 25px 25px;
+    padding: 12px 25px 12px 25px;
 }
 
 .soft-skills {
     justify-self: left;
-    padding: 25px 25px 25px 25px;
+    padding: 12px 25px 12px 25px;
 }
   
 .redes {
     justify-self: left;
-    padding: 25px 25px 25px 25px;
+    padding: 12px 25px 12px 25px;
 }
     
 .qrcode { 
     justify-self: left;
-    padding: 25px 25px 25px 25px;
+    padding: 12px 25px 25px 25px;
 }
 
 
