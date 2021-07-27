@@ -408,6 +408,5 @@ mark {
 }
 
 .avancado{
-    background-image: url("https://anneraupp.github.io/curriculum-vitae/svg/avancado.svg");
-    background-size: cover;
+    content: url("https://anneraupp.github.io/curriculum-vitae/svg/avancado.svg");
 }
