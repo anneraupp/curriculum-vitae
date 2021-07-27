@@ -1,0 +1,398 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    background-color: #fff;
+    color: #000;
+    font-size: 14px;
+}
+
+.site{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+/* MENU */
+.menu-lateral{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(230, 230, 230);
+    width: 290px;
+}
+
+.caixa-menu{
+    margin: 20px;
+    justify-self: center;
+    padding: 0;
+}
+
+.foto{
+    justify-self: center;
+    padding: 0;
+    margin: 20px;
+
+}
+    .foto-perfil{
+        width: 200px;
+        height: 200px;
+        background-image: url(/img/fotos/profile-foto.png);
+        background-size: cover;
+        margin: 25px}
+
+.sobre{
+    justify-self: center;
+    padding: 25px 25px 25px 25px;
+}
+
+.contato{
+    justify-self: center;
+    padding: 25px 25px 25px 25px;
+}
+
+.idiomas {
+    justify-self: center;
+    padding: 25px 25px 25px 25px;
+}
+
+.soft-skills {
+    justify-self: center;
+    padding: 25px 25px 25px 25px;
+}
+  
+.redes {
+    justify-self: center;
+    padding: 25px 25px 25px 25px;
+}
+    
+.qrcode { 
+    justify-self: center;
+    padding: 25px 25px 25px 25px;
+}
+
+
+/* CORPO */
+.corpo {
+    display: flex;
+    flex-direction: column;
+    margin-left: 0px;
+}
+
+.traducao{
+    float: right;
+    padding-top: 21px;
+    padding-right: 21px;
+}
+
+.trad a{
+    text-decoration: none;
+    color: #000;
+
+}
+
+.trad a:hover, a:visited, a:link, a:active
+{
+    text-decoration: none;
+    color: #000;
+}
+
+span .titulo{
+    float: right;
+}
+
+.titulo{
+    padding: 25px 25px 15px 25px;
+    margin: 20px;
+    justify-self: center;
+    background-color:  #8f8f8f
+}
+
+.experiencia{
+    padding: 0;
+    margin: 20px;
+    justify-self: center;
+    padding: 25px 25px 25px 25px;
+}
+
+.formacao{
+    padding: 0;
+    margin: 20px; 
+    justify-self: center;
+    padding: 25px 25px 25px 25px;
+}
+
+.habilidades{
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+    margin: 20px; 
+    justify-self: center;
+    padding: 25px 25px 25px 25px;
+}
+
+.row{
+    display: flex;
+    flex-direction: row;
+
+    padding: 25px;
+    margin-left: -30px;
+}
+
+.coluna{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    justify-self: stretch;
+    width: 40%;
+    
+}
+
+.hab-item{
+    float:left;
+    margin-top: -25px;
+    margin-right: 50px;
+}
+
+
+/* TEXTOS */
+.sidebar-texto{
+    font-size: 14px;
+}
+
+.sidebar-titulo{
+    font-size: 20px;
+    text-transform:uppercase;
+    font-weight: bold;
+}
+
+.sidebar-subtitulo{
+    font-size: 16px;
+    text-transform:uppercase;
+    font-weight: bolder;
+    margin-right: 8px;
+}
+
+
+.lista{
+    margin-bottom: 10px;
+}
+
+ul{
+    list-style-type: none;
+    padding: 0;
+    margin-left: 0;
+}
+
+mark {
+    background-color:  rgb(158, 158, 158);
+
+}
+
+
+.menu-lateral button {
+    border: none;
+    background-color: inherit;
+    font-size: 25x;
+    text-transform:uppercase;
+    font-weight: bolder;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    color: #000;
+}
+
+ .experiencia button, .formacao button, .habilidades button {
+    border: none;
+    background-color: inherit;
+    font-size: 20px;
+    text-transform: none;
+    font-weight:500;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    color: #000;
+}
+
+.paragrafo{
+    padding-left: 20px;
+    line-height: 20px;
+}
+
+.titulo-nome { 
+    text-align: right;
+    justify-items: center;}
+
+.subtitulo-nome {
+    justify-items: center;
+    text-align: right;
+    font-weight: 200;
+}
+
+.texto-titulo{
+    font-size: 60px;
+    font-weight: bolder;
+    text-transform:uppercase;
+    line-height: 60px;
+}
+
+.texto-subtitulo{
+    font-size: 20px;
+    line-height: 20px;
+    text-transform:uppercase;
+}
+
+.titulo-sessao{
+    padding-left: 5px;
+}
+
+.borda {
+    background:
+    linear-gradient(to right, black 4px, transparent 4px) 0 100%,
+    linear-gradient(to right, black 4px, transparent 4px) 0 100%,
+    linear-gradient(to left, black 4px, transparent 4px) 100% 0,
+    linear-gradient(to left, black 4px, transparent 4px) 100% 0,
+    linear-gradient(to bottom, black 4px, transparent 4px) 100% 0,
+    linear-gradient(to bottom, black 4px, transparent 4px) 100% 0,
+    linear-gradient(to top, black 4px, transparent 4px) 0 100%,
+    linear-gradient(to top, black 4px, transparent 4px) 0 100%;
+
+    background-repeat: no-repeat;
+    background-size: 20px 20px;
+}
+
+.spc-flag{
+    margin-left: 15px;
+}
+
+.item-idioma{
+    display: flex;
+    flex-direction: row;
+    font-size: 14px;
+    padding-top: 10px;
+}
+
+.qr-code{
+    width: 100px;
+    height: 100px;
+    margin: auto;
+    margin-left: 25%;
+}
+
+/* REDES SOCIAIS */
+.social-items{
+    display: table;
+    padding: 0;
+
+}
+
+#social-test {
+    display:table-row-group;
+    vertical-align: middle;
+    text-align: left;
+    font-size: 25px;
+
+}
+
+.social{
+    margin-left: -10px;
+}
+
+#social-test .social {
+    padding-left: 0;
+}
+
+#social-test .social i {
+    color: rgba(0, 0, 0, 0.9);
+    list-style-type: none;
+    width: 25px;
+    height: 25px;
+    padding: 20px 20px 20px 20px; 
+    line-height: 25px;
+    cursor: pointer;
+    transition: ease .3s;
+}
+
+.social i:hover {
+    color: rgb(158, 158, 158);
+    opacity: 0.5;
+}
+
+#social-test .social:hover > i:hover {
+    opacity: 1;
+}
+
+
+/* HABILIDADES SVG */
+.icones-items{
+    display: flex;
+    flex-direction: row;
+    padding: 25px;
+
+}
+
+#icones-test {
+    display:table-row-group;
+    vertical-align:top;
+    text-align: middle;
+    font-size: 16px;
+
+}
+
+#icones-test .icones {
+    padding-left: 0px;
+}
+
+#icones-test .icones img {
+    color: rgba(0, 0, 0, 0.9);
+    list-style-type: none;
+    width: 70px;
+    height: 70px;
+    padding: 0; 
+    line-height: 70px;
+    cursor: pointer;
+    transition: ease .3s;
+}
+
+.icones img:hover {
+    color: rgb(158, 158, 158);
+    opacity: 0.5;
+}
+
+#icones-test .icones:hover > img:hover {
+    opacity: 1;
+}
+
+
+.nivel{
+    height: 18px;
+    margin-right: 5px;
+}
+
+.negrito {
+    font-weight: bold;
+}
+
+.sk{
+    list-style-type: square;
+    list-style-position: inside;
+}
+
+
+.custom-tooltip {
+    display: inline-block;
+    opacity: 0.4;
+    position:absolute;
+    margin-top: 5px;
+
+}
+
+.custom-tooltip .tooltip-inner {
+    padding: 2px 5px;
+
+
+}
+
+
+.custom-tooltip.left .tooltip-arrow {
+	border-top-color:transparent;
+}
