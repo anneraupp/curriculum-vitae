@@ -1,6 +1,6 @@
 # Projeto de Curriculum Vitae em formato de site
 
-Para este projeto decidi transformar meu currículo em pdf (Link) em uma página web responsiva. 
+Para este projeto decidi transformar meu currículo em pdf [link](/img/cv_espanha.pdf) em uma página web responsiva. 
 Utilizei HTML5, CSS3 e Bootstrap. 
 Demorei cerca de uma semana para desenvolvê-lo.
 
